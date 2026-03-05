@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divaskar</h1>
 <p align="center">
-  <img src="animation.gif" width="300"/>
+  <img src="animation.gif" width="200"/>
 </p>
 <p align= "center">
   <img 
