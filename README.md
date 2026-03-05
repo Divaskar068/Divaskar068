@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Divaskar</h1>
 
 <p align="center">
-<img src="animation.gif" width="800"/>
+  <img src="animation.gif" width="800"/>
 </p>
 
 <p align="center">
@@ -24,28 +23,22 @@
 
 - Interested in **software development and system design**
 - I enjoy **building real projects and learning by doing**
-- Improving my skills in **backend systems and scalable applications** along with programming ML models to get valuable information from data
-- Currenty learning frontend and exploring designs and tools 
+- Improving my skills in **backend systems and scalable applications**, and learning ML
+- Currently learning frontend
 
 ---
 
 ### 🧠 Languages and Tools
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,docker,linux,cpp"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,docker,linux,cpp"/>
 </p>
-
 
 ---
 
-## 📊 3D Contribution Graph
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divaskar068&theme=tokyonight)
-
-
-###
 <picture>
-<img src="https://raw.githubusercontent.com/Divaskar068/Divaskar068/output/pacman-contribution-graph-dark.svg"      alt="Pac-Man Contribution Graph</picture>
-
-###
+  <img 
+    src="https://raw.githubusercontent.com/Divaskar068/Divaskar068/output/pacman-contribution-graph-dark.svg" 
+    alt="Pac-Man Contribution Graph"
+  />
+</picture>
