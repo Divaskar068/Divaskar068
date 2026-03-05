@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Divaskar</h1>
-
 <p align="center">
-  <img src="animation.gif" width="800"/>
+  <img src="animation.gif" width="300"/>
 </p>
-
-<p align="center">
+<p align= "center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineering;Data+Science;Building+Backend+Systems;Programming+ML+Models;Learning+Front+End;"
   />
