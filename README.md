@@ -9,15 +9,6 @@
 </p>
 
 ---
-
-### 📫 Contact with me on 
-
-- Email: divaskar2002@gmail.com
-- LinkedIn: https://linkedin.com/in/divaskar068
-<p align="left"><a href="https://www.instagram.com/YOUR_INSTA_USERNAME" target="_blank">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" /></a><a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" /></a><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" /></a></p>
-
----
-
 ### 🚀 About Me
 
 - Interested in **software development and system design**
