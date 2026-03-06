@@ -13,7 +13,7 @@
 
 - Interested in **software development and system design**
 - I enjoy **building real projects and learning by doing**
-- Improving my skills in **backend systems and scalable applications**, and learning ML
+- Improving my skills in **backend systems, scalable applications**, and **ML Models**
 - Currently learning frontend
 
 ---
